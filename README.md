@@ -24,5 +24,5 @@ Next.js • React Hook Form • Zod • Tailwind • Express • TypeScript • 
 yarn
 # build shared types once (or use transpilePackages)
 yarn workspace @starter/shared build
-# dev both web+api
+# dev both web+api 
 yarn dev

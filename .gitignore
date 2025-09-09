@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+apps/*/node_modules/
+
+# builds / caches
+.next/
+apps/*/.next/
+dist/
+apps/*/dist/
+.vercel/
+apps/*/.vercel/
+coverage/
+*.log
+
+# env
+.env*
+apps/*/.env*

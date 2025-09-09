@@ -1,4 +1,6 @@
-# Next.js + Node Intake Starter (TS, Tailwind, Zod, Yarn Workspaces)
+# Next.js + Node Doctors appointment app (TS, Tailwind, Zod, Yarn Workspaces)
+
+[![CI](https://github.com/Millardbz/Doctor-Appointment-App-NextJS/actions/workflows/ci.yml/badge.svg)](https://github.com/Millardbz/Doctor-Appointment-App-NextJS/actions/workflows/ci.yml)
 
 A tiny full-stack starter you can clone to ship forms fast:
 - **Web:** Next.js (App Router) + TypeScript + Tailwind
